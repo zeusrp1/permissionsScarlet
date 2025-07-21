@@ -1,5 +1,3 @@
 return {
-    ["zeus"] = true,
-    ["zzclieff"] = true,
-    ["clieff2"] = true
+    ["zeus"] = true
 }
