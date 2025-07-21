@@ -1,3 +1,5 @@
-local blUsers = {
-"zeus"
-} 
+return {
+    ["zeus"] = true,
+    ["zzclieff"] = true,
+    ["clieff2"] = true
+}
